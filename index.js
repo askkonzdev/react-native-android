@@ -167,3 +167,4 @@ class Inc {
 		return err;
 	}
 }
+export default new Inc();
