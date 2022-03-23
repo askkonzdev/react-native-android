@@ -1,0 +1,32 @@
+{
+	"name": "react-native-android",
+	"version": "1.0.1",
+	"description": "Tesst",
+	"main": "src/index.js",
+	"license": "GNU GPL V3.0",
+	"keywords": [
+		"react-native",
+		"in app purchase",
+		"in-app-purchase",
+		"in-app-billing",
+		"billing",
+		"google-play",
+		"itunes"
+	],
+	"homepage": "https://github.com/iaphub/react-native-iaphub",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/iaphub/react-native-iaphub.git"
+	},
+	"peerDependencies": {
+		"react": "*",
+		"react-native": "*",
+		"react-native-iap": "5.2.6"
+	},
+	"devDependencies": {},
+	"dependencies": {
+		"fetch-retry": "4.1.0",
+		"react-native-event-listeners": "1.0.7",
+		"react-native-fetch-polyfill": "1.1.3"
+	}
+}
