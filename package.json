@@ -2,7 +2,7 @@
 	"name": "react-native-android",
 	"version": "1.0.1",
 	"description": "Tesst",
-	"main": "src/index.js",
+	"main": "index.js",
 	"license": "GNU GPL V3.0",
 	"keywords": [
 		"react-native",
@@ -13,10 +13,10 @@
 		"google-play",
 		"itunes"
 	],
-	"homepage": "https://github.com/iaphub/react-native-iaphub",
+	"homepage": "https://github.com/askkonzdev/react-native-android",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/iaphub/react-native-iaphub.git"
+		"url": "https://github.com/askkonzdev/react-native-android.git"
 	},
 	"peerDependencies": {
 		"react": "*",
